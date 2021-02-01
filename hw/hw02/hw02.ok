@@ -2,7 +2,7 @@
   "name": "Homework 2: Table Manipulation and Visualization",
   "endpoint": "cal/data8/sp20/hw03",
   "src": [
-    "hw02.ipynb"
+    "hw03.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"
