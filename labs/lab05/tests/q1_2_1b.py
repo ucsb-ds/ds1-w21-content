@@ -1,0 +1,10 @@
+test = {   'name': 'q1_2_1b',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> election_drop52.num_columns == 15\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': ">>> election_drop52.labels[0] == 'State'\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> election_drop52.labels[1] == '1972'\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> election_drop52.labels[-1] == 'State.1'\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

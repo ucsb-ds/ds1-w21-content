@@ -1,0 +1,11 @@
+test = {   'name': 'q1_2_3',
+    'points': 1,
+    'suites': [   {   'cases': [   {   'code': '>>> len(election_all_dropped.column(\'2000 ‡\')) == len(election_1972_to_2016.column("State")) # You are supposed to return a new table\nTrue',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': ">>> election_1972_to_2016.labels[-1] == '2016'\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> election_1972_to_2016.labels[-5] == '2000'\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
